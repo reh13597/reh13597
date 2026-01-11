@@ -31,7 +31,8 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 - Designed the application-layer messaging scheme to allow for clear communication between the game's server and the players
 - Designed the game's entire UI using PyGame, including the lobby screen, grid-based map, players, and goals to improve the clarity of gameplay and objectives
 
-### [⚙️ Systems Programming (various projects, coming soon)]()
+### ⚙️ Systems Programming (CMPT 201: Systems Programming, SFU)
+- Various projects, coming soon
 
 ### [👻 Mountain Madness Hackathon (Computing Science Student Society, SFU)](https://devpost.com/software/descent-into-madness)
 - Developed a Roblox horror game using Lua with a team of 4 people over the course of 24 hours centered on the theme "Descent Into Madness"
