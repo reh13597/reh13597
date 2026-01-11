@@ -1,18 +1,19 @@
-## Hi there 👋
+# Hey there 👋, I'm Alex! 
 
-This is a work in progress. More details coming soon...
+I'm a 3rd year Computing Science student at SFU 🍁. I'm very interested in full-stack development, AI/ML, and data networking 💻. I'm also in the SFU-ZJU Dual Degree Program, so after I get my bachelor's in Computing Science, I'll embark to Zhejiang University in China to get a master's in Finance!
 
-<!--
-**reh13597/reh13597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️), getting a workout in at the gym 🏋️, playing video games 🎮, or just in Vancouver enjoying the tastiest food there is to offer 🍕.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+
+---
+
+## Experience
+
+---
+
+## Skills
+
