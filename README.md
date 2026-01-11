@@ -19,7 +19,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 - Implemented a core feature of the system by utilizing Python's scikit-learn and pandas to convert resumes and job-postings into TF-IDF vectors, to then calculate the cosine similarities between each pair to highlight their similarities in vocabulary and structure
 - Contributed to the system's pipeline design using Figma, generation of key visuals using matplotlib, and major project deliverables such as reports and a digital poster, to convey our group's project vision
 
-### [🧑‍🍳 Recipedia (CMPT 276: Intro to Software Engineering, SFU)](https://recipedia-mtvj.onrender.com/) 
+### [🍴 Recipedia (CMPT 276: Intro to Software Engineering, SFU)](https://recipedia-mtvj.onrender.com/) 
 - Developed a full-stack recipe and nutritional information website with a team of 4 people, using Agile Scrum and Kanban methodologies to help users with meal planning and nutrition
 - Implemented 2 core features of the website by leveraging TheMealDB and APINinjas to filter through a database of recipes and to generate nutritional info for recipes and images
 - Configured a CI/CD pipeline using GitHub Actions and Render to ensure bug-free code and smooth deployments of the website
@@ -31,7 +31,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 - Designed the application-layer messaging scheme to allow for clear communication between the game's server and the players
 - Designed the game's entire UI using PyGame, including the lobby screen, grid-based map, players, and goals to improve the clarity of gameplay and objectives
 
-### [Systems Programming (various projects)]()
+### [⚙️ Systems Programming (various projects, coming soon)]()
 
 ### [👻 Mountain Madness Hackathon (Computing Science Student Society, SFU)](https://devpost.com/software/descent-into-madness)
 - Developed a Roblox horror game using Lua with a team of 4 people over the course of 24 hours centered on the theme "Descent Into Madness"
@@ -54,7 +54,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 ---
 
 ## 🔗 Links 
-- [🧑‍🦱 Personal Portfolio (WIP)](reh13597-github-io.vercel.app)
+- [🗂️ Personal Portfolio (WIP)](reh13597-github-io.vercel.app)
 - [💼 LinkedIn](http://www.linkedin.com/in/alex-guo-3088461ba)
 - [✉️ Email](alg17@sfu.ca)
 
