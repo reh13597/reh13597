@@ -14,7 +14,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ## Skills 🛠️
 
-** Programming Languages**
+**Programming Languages**
 - Java, JavaScript, TypeScript, HTML, CSS, Python, C/C++, C#, x86 Assembly, Lua
 
 **Frameworks**
