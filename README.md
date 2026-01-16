@@ -80,12 +80,13 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ---
 
+## 📊GitHub Stats
+
+![Stats](./profile/stats.svg)
+
+--- 
+
 ## 🔗 Links 
 - [🗂️ Personal Portfolio (WIP)](reh13597-github-io.vercel.app)
 - [💼 LinkedIn](http://www.linkedin.com/in/alex-guo-3088461ba)
 - [✉️ Email](alg17@sfu.ca)
-
----
-## 📊GitHub Stats
-
-![Stats](./profile/stats.svg)
