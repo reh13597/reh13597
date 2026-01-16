@@ -61,5 +61,4 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ---
 
-## 📊 GitHub Stats:
-[![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reh13597)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reh13597&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
