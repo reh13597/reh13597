@@ -63,4 +63,3 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
