@@ -60,3 +60,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 - [✉️ Email](alg17@sfu.ca)
 
 ---
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
