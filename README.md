@@ -59,3 +59,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 - [💼 LinkedIn](http://www.linkedin.com/in/alex-guo-3088461ba)
 - [✉️ Email](alg17@sfu.ca)
 
+---
+
+## 📊 GitHub Stats:
+[![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reh13597)](https://github.com/anuraghazra/github-readme-stats)
