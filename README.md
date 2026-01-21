@@ -14,7 +14,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 - Integrated real-time Minecraft server data via API calls to the MCStatus API to display a server's live status, player count, and metadata so users know the requirements to join a Minecraft server
 - Architected dynamic routing for server profile pages using unique server UUIDs to generate individualized profile pages, enabling a scalable user-generated content structure
 
-### [📄 Resume/Job Recommender (CMPT 310: Intro to AI, SFU](https://github.com/reh13597/CMPT310-Resume-Parser) 
+### [📄 Resume/Job Recommender (CMPT 310: Intro to AI, SFU)](https://github.com/reh13597/CMPT310-Resume-Parser) 
 - Developed an AI-driven Resume-to-Job Recommendation System with a team of 4 people that predicts and ranks the best job-posting matches for a given resume
 - Implemented a core feature of the system by utilizing Python's scikit-learn and pandas to convert resumes and job-postings into TF-IDF vectors, to then calculate the cosine similarities between each pair to highlight their similarities in vocabulary and structure
 - Contributed to the system's pipeline design using Figma, generation of key visuals using matplotlib, and major project deliverables such as reports and a digital poster, to convey our group's project vision
