@@ -84,12 +84,6 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ---
 
-## 📊GitHub Stats
-
-![Stats](./profile/stats.svg)
-
---- 
-
 ## 🔗 Links 
 - [🗂️ Personal Portfolio (WIP)](https://alexguo.vercel.app/)
 - [💼 LinkedIn](https://www.linkedin.com/in/alex-guo-3088461ba)
