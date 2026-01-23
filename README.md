@@ -10,21 +10,31 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ### [🕸️ Server Nexus (WIP)](https://server-nexus.vercel.app/#/login) 
 - Developing a full-stack website using Svelte that aggregates data from 10,000+ Minecraft servers
+- Integrated real-time Minecraft server data via MCStatus API, processing 500 API calls/hour to deliver live server statuses, player counts, and metadata
+- Implemented secure user authentication using Supabase Auth supporting persistent sessions for users
+- Architected dynamic routing for server profile pages using unique server UUIDs to generate individualized profile pages, enabling a scalable user-generated content structure
 
 ### [📄 Resume/Job Recommender](https://github.com/reh13597/CMPT310-Resume-Parser) 
 - Developed an AI-driven system using Python and Logistic Regression that analyzed 4,800+ resumes and 33,000+ job-postings, achieving ~62% recommendation accuracy in matching candidates to roles
+- Processed and vectorized 37,000+ documents into TF-IDF vectors using Python’s Scikit-learn and Pandas, achieving faster similarity calculations compared to baseline methods
 
-### [🍴 Recipedia](https://recipedia-mtvj.onrender.com/) 
+### [🍴 Recipedia](https://rcpdia.vercel.app/)
 - Developed a platform using React that serves 600+ recipes and instant nutritional information via NLP, completing 10 sprints over 4 months using Agile Scrum and Kanban methodologies
+- Built a recipe filtering system that processes 1,000 API requests/day, providing nutritional data for every recipe and uploaded image with a ~270 ms average response time
+- Configured a CI/CD pipeline using GitHub Actions and Render to ensure bug-free code and smooth deployments of the website, boosting work productivity and efficiency
 
 ### [🔒 GridLock](https://github.com/danieldawdaSFU/CMPT-371-Project)
 - Developed a real-time 2D multiplayer game supporting up to 4 players using PyGame and Python TCP sockets
+- Implemented 3 levels of game progression and collision handling, driving a competitive gameplay atmosphere
+- Architected the application-layer messaging scheme that handles 7 message types, allowing for synchronized game sessions between the server and each player
 
 ### ⚙️ Systems Programming (CMPT 201: Systems Programming, SFU)
 - Various projects, coming soon
 
 ### [👻 Mountain Madness Hackathon](https://devpost.com/software/descent-into-madness)
-- Developed a Roblox horror game using Lua with a team of 4 people over the course of 24 hours 
+- Developed a Roblox horror game using Lua with a team of 4 people over the course of 24 hours
+- Implemented 5 core game features, including the mechanics and UI for the player’s stamina, sanity, flashlight, and battery, along with a pickup/drop system for items, balancing resource scarcity and player agency to maintain tension throughout the experience
+- Conducted 40+ iterative testing cycles to identify and resolve bugs, delivering a polished and stable demo
 
 ---
 
