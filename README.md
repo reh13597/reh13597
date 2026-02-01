@@ -28,9 +28,6 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 - Implemented 3 levels of game progression and collision handling, driving a competitive gameplay atmosphere
 - Architected the application-layer messaging scheme that handles 7 message types, allowing for synchronized game sessions between the server and each player
 
-### ⚙️ Systems Programming (CMPT 201: Systems Programming, SFU)
-- Various projects, coming soon
-
 ### [👻 Mountain Madness Hackathon](https://devpost.com/software/descent-into-madness)
 - Developed a Roblox horror game using Lua with a team of 4 people over the course of 24 hours
 - Implemented 5 core game features, including the mechanics and UI for the player’s stamina, sanity, flashlight, and battery, along with a pickup/drop system for items, balancing resource scarcity and player agency to maintain tension throughout the experience
