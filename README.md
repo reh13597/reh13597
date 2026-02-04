@@ -10,18 +10,19 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ### [🕸️ Server Nexus (WIP)](https://server-nexus.vercel.app/#/login) 
 - Developing a full-stack website using **Svelte** that aggregates data from 10,000+ Minecraft servers
-- Integrated real-time Minecraft server data via **MCStatus API**, processing 500 API calls/hour to deliver live server statuses, player counts, and metadata
+- Integrated real-time Minecraft server data via MCStatus API, processing 500 API calls/hour to deliver live server statuses, player counts, and metadata
 - Engineered backend infrastructure using **Supabase/PostgreSQL**, designing authenticated CRUD APIs and relational schemas to support scalable, UUID-based server profile generation
 - Implemented secure user authentication using Supabase Auth supporting persistent sessions for users
 
 ### [📄 Resume/Job Recommender](https://github.com/reh13597/CMPT310-Resume-Parser) 
-- Developed an AI-driven system using **Python** and **Logistic Regression** that analyzed 4,800+ resumes and 33,000+ job-postings, achieving ~62% recommendation accuracy in matching candidates to roles
+- Developed an AI-driven system using **Python** and Logistic Regression that analyzed 4,800+ resumes and 33,000+ job-postings, achieving ~62% recommendation accuracy in matching candidates to roles
 - Processed and vectorized 37,000+ documents into TF-IDF vectors using Python’s **Scikit-learn** and **Pandas**, achieving faster similarity calculations compared to baseline methods
+- Contributed to the system's pipeline design using Figma, generation of 10 key visuals using **Matplotlib**, and major project deliverables such as reports and a digital poster, conveying my team's project vision
 
 ### [🍴 Recipedia](https://rcpdia.vercel.app/)
-- Developed a platform using **React** that serves 600+ recipes and instant nutritional information via **NLP**, completing 10 sprints over 4 months using **Agile Scrum and Kanban methodologies**
+- Developed a platform using **React** that serves 600+ recipes and instant nutritional information via NLP, completing 10 sprints over 4 months using **Agile Scrum and Kanban methodologies**
 - Built a recipe filtering system that processes 1,000 API requests/day, providing nutritional data for every recipe and uploaded image with a ~270 ms average response time
-- Configured a CI/CD pipeline using **GitHub Actions** and **Vercel** to ensure bug-free code and smooth deployments of the website, boosting work productivity and efficiency
+- Configured a CI/CD pipeline using **GitHub Actions** and **Vercel** to ensure bug-free code and smooth deployments of the website, boosting work productivity and efficiency by 50%
 
 ### [🔒 GridLock](https://github.com/danieldawdaSFU/CMPT-371-Project)
 - Developed a real-time 2D multiplayer game supporting up to 4 players using **PyGame** and **Python TCP sockets**
