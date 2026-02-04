@@ -11,8 +11,8 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 ### [🕸️ Server Nexus (WIP)](https://server-nexus.vercel.app/#/login) 
 - Developing a full-stack website using **Svelte** that aggregates data from 10,000+ Minecraft servers
 - Integrated real-time Minecraft server data via **MCStatus API**, processing 500 API calls/hour to deliver live server statuses, player counts, and metadata
-- Implemented secure user authentication using **Supabase Auth** supporting persistent sessions for users
-- Architected dynamic routing for server profile pages using unique server UUIDs to generate individualized profile pages, enabling a scalable user-generated content structure
+- Engineered backend infrastructure using **Supabase/PostgreSQL**, designing authenticated CRUD APIs and relational schemas to support scalable, UUID-based server profile generation
+- Implemented secure user authentication using Supabase Auth supporting persistent sessions for users
 
 ### [📄 Resume/Job Recommender](https://github.com/reh13597/CMPT310-Resume-Parser) 
 - Developed an AI-driven system using **Python** and **Logistic Regression** that analyzed 4,800+ resumes and 33,000+ job-postings, achieving ~62% recommendation accuracy in matching candidates to roles
