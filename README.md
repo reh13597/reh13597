@@ -23,11 +23,13 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 - Developed a platform using **React** that serves 600+ recipes and instant nutritional information via NLP, completing 10 sprints over 4 months using **Agile Scrum and Kanban methodologies**
 - Built a recipe filtering system that processes 1,000 API requests/day, providing nutritional data for every recipe and uploaded image with a ~270 ms average response time
 - Configured a CI/CD pipeline using **GitHub Actions** and **Vercel** to ensure bug-free code and smooth deployments of the website, boosting work productivity and efficiency by 50%
+- Designed and implemented the low-fidelity storyboard and mid-fidelity prototype using Figma, **Daisy UI**, and **Tailwind CSS**, showcasing my team's website for project reports and presentations
 
 ### [🔒 GridLock](https://github.com/danieldawdaSFU/CMPT-371-Project)
 - Developed a real-time 2D multiplayer game supporting up to 4 players using **PyGame** and **Python TCP sockets**
 - Implemented 3 levels of game progression and collision handling, driving a competitive gameplay atmosphere
 - Architected the application-layer messaging scheme that handles 7 message types, allowing for synchronized game sessions between the server and each player
+- Designed the game's entire UI using **PyGame**, including the lobby screen, players, objectives, and a grid-based map with obstacles, fostering an intuitive and engaging user experience 
 
 ### [👻 Mountain Madness Hackathon](https://devpost.com/software/descent-into-madness)
 - Developed a Roblox horror game using **Lua** with a team of 4 people over the course of 24 hours
