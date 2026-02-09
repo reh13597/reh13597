@@ -21,7 +21,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ### [🍴 Recipedia](https://rcpdia.vercel.app/)
 - Developed a platform using **React** that serves 600+ recipes and instant nutritional information via NLP, completing 10 sprints over 4 months using **Agile Scrum and Kanban methodologies**
-- Built a recipe filtering system that processes 1,500 API requests/day, providing nutritional data for every recipe and uploaded image with a ~270 ms average response time
+- Built a recipe filtering system that processes 2,000 API requests/day, providing nutritional data for every recipe and uploaded image with a ~270 ms average response time
 - Configured a CI/CD pipeline using **GitHub Actions** and **Vercel** to ensure bug-free code and smooth deployments of the website, boosting work productivity and efficiency by 50%
 - Designed and implemented the low-fidelity storyboard and mid-fidelity prototype using Figma, **Daisy UI**, and **Tailwind CSS**, showcasing my team's website for project reports and presentations
 
