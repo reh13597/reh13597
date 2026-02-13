@@ -8,7 +8,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ## 🚀 Projects 
 
-### [🕸️ Server Nexus (WIP)](https://server-nexus.vercel.app/#/login) 
+### [🕸️ Server Nexus (WIP)](https://server-nexus.vercel.app/#/) 
 - Developing a full-stack website using **Svelte** that aggregates data from 10,000+ Minecraft servers
 - Integrated real-time Minecraft server data via MCStatus API, processing 1,500 API calls/hour to deliver live server statuses, player counts, and metadata
 - Engineered backend infrastructure using **Supabase/PostgreSQL**, designing authenticated CRUD APIs and relational schemas to support scalable, UUID-based server profile generation
@@ -85,6 +85,6 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 ---
 
 ## 🔗 Links 
-- [🗂️ Personal Portfolio (WIP)](https://alexguo.vercel.app/)
-- [💼 LinkedIn](https://www.linkedin.com/in/alex-guo-3088461ba)
+- [🗂️ Personal Portfolio (WIP)](https://guoalex.com/)
+- [💼 LinkedIn](https://www.linkedin.com/in/-alex-guo-)
 - [✉️ Email](mailto:alg17@sfu.ca)
