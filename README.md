@@ -66,39 +66,22 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 ## 🚀 Projects 
 
 ### [🕸️ Server Nexus (WIP)](https://server-nexus.vercel.app/#/) 
-- Built a full-stack website using **Svelte** and **TypeScript**, aggregating data from 100,000+ Minecraft servers.
-- Integrated real-time server data via **MCStatus API**, processing 1,500 API calls/hour to deliver live statuses, player counts, and metadata.
-- Engineered backend infrastructure using **Supabase/PostgreSQL**, designing authenticated RESTful APIs and relational database schemas for scalable, UUID-based server profile generation.
-- Implemented secure user authentication using **Supabase Auth**, supporting persistent sessions for users.
+- A full-stack website that lets users fetch Minecraft server information and leave ratings/reviews. 
 
 ### [📊 SubTrak (WIP)](https://main.d3vzykb0ipd68k.amplifyapp.com/)
-- Developed a full-stack platform using **Next.js**, **TypeScript**, and **AWS RDS (MySQL)**, allowing users to effectively manage subscriptions across physical and digital services.
-- Designed a relational database schema with 7 entities and implemented 15+ **SQL** queries, enabling users to monitor monthly spending, upcoming billing cycles, and service utilization in real-time.
-- Engineered serverless backend infrastructure using **AWS Cognito** and **S3**, supporting secure user authentication, file storage, and scalable API execution.
-- Integrated the **Google Gemini API** to parse user-uploaded billing statements and automatically generate new subscription entries, eliminating manual data entry and reducing onboarding friction.
+- A full-stack website that lets users track their subscriptions, spending, and under/over-utilized services.
 
 ### [🍴 Recipedia](https://rcpdia.vercel.app/)
-- Developed a platform using **React** and **JavaScript** that serves 700+ recipes and instant nutritional information via NLP, completing 10 sprints over 4 months using **Agile Scrum** and **Kanban** methodologies.
-- Built a recipe filtering system processing 2,000 API requests/day, providing nutritional data for every recipe and uploaded image with a **∼270 ms** average response time.
-- Configured a CI/CD pipeline using **GitHub Actions** and **Vercel**, boosting work productivity and deployment efficiency by **60%**.
+- A website for finding recipes and scanning images for nutritional information.
 
 ### 🧠 CerebralVision (WIP) 
-- Trained a **ResNet-18** binary classification model using **PyTorch** on 12,000+ MRI images, detecting brain tumor presence with **99.11%** accuracy across 128x128 and 256x256 resolutions.
-- Benchmarked 3 model architectures (ResNet-18, ResNet-50, CNN-3) using **Scikit-learn** evaluation metrics, improving accuracy by **~12%** over the baseline CNN-3 model.
-- Evaluated model performance by generating a confusion matrix, ROC curve, and precision-recall curve using **Matplotlib** and **Seaborn**, providing a comprehensive view of classification sensitivity and specificity.
+- An AI pipeline that detects the presence of brain tumors in MRI scans.
 
 ### [📄 Resume/Job Recommender](https://github.com/reh13597/CMPT310-Resume-Parser) 
-- Developed an AI-driven system using **Python** and Logistic Regression that analyzed 4,800+ resumes and 33,000+ job-postings, achieving **~62%** recommendation accuracy in matching candidates to roles
-- Processed and vectorized 37,000+ documents into TF-IDF vectors using Python’s **Scikit-learn** and **Pandas**, achieving faster similarity calculations compared to baseline methods
-- Contributed to the system's pipeline design using **Figma**, generation of 10 key visuals using **Matplotlib**, and major project deliverables such as reports and a digital poster, conveying my team's project vision
+- An AI pipeline that ranks the top N job postings to a resume.
 
 ### [🔒 GridLock](https://github.com/danieldawdaSFU/CMPT-371-Project)
-- Developed a real-time 2D multiplayer game supporting up to 4 players using **PyGame** and **Python TCP sockets**
-- Implemented 3 levels of game progression and collision handling, driving a competitive gameplay atmosphere
-- Architected the application-layer messaging scheme that handles 7 message types, allowing for synchronized game sessions between the server and each player
-- Designed the game's entire UI using **PyGame**, including the lobby screen, players, objectives, and a grid-based map with obstacles, fostering an intuitive and engaging user experience 
+- A Pacman-esque 2D multiplayer game with shared objects and object locking.
 
 ### [👻 Mountain Madness Hackathon](https://devpost.com/software/descent-into-madness)
-- Developed a **Roblox** horror game using **Lua** with a team of 4 people over the course of 24 hours
-- Implemented 5 core game features, including the mechanics and UI for the player’s stamina, sanity, flashlight, and battery, along with a pickup/drop system for items, balancing resource scarcity and player agency to maintain tension throughout the experience
-- Conducted 40+ iterative testing cycles to identify and resolve bugs, delivering a polished and stable demo
+- A 3D single-player horror game built during the 2025 Mountain Madness Hackathon.
