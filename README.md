@@ -17,7 +17,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 ### [📊 SubTrak (WIP)](https://main.d3vzykb0ipd68k.amplifyapp.com/)
 - Developed a full-stack platform using **Next.js**, **TypeScript**, and **AWS RDS (MySQL)**, allowing users to effectively manage subscriptions across physical and digital services.
 - Designed a relational database schema with 7 entities and implemented 15+ **SQL** queries, enabling users to monitor monthly spending, upcoming billing cycles, and service utilization in real-time.
-- Engineered serverless backend infrastructure using **AWS Lambda**, **S3**, and **Cognito**, supporting secure user authentication, file storage, and scalable API execution.
+- Engineered serverless backend infrastructure using **AWS Cognito** and **S3**, supporting secure user authentication, file storage, and scalable API execution.
 - Integrated the **Google Gemini API** to parse user-uploaded billing statements and automatically generate new subscription entries, eliminating manual data entry and reducing onboarding friction.
 
 ### [🍴 Recipedia](https://rcpdia.vercel.app/)
