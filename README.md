@@ -6,6 +6,13 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ---
 
+## 🔗 Links 
+- [🗂️ Personal Portfolio](https://guoalex.com/)
+- [💼 LinkedIn](https://www.linkedin.com/in/-alex-guo-)
+- [✉️ Email](mailto:alg17@sfu.ca)
+
+---
+
 ## 🛠️ Skills 
 
 ### Programming Languages
@@ -53,13 +60,6 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
----
-
-## 🔗 Links 
-- [🗂️ Personal Portfolio](https://guoalex.com/)
-- [💼 LinkedIn](https://www.linkedin.com/in/-alex-guo-)
-- [✉️ Email](mailto:alg17@sfu.ca)
 
 ---
 
