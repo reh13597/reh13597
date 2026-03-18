@@ -6,13 +6,6 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ---
 
-## 🔗 Links 
-- [🗂️ Personal Portfolio](https://guoalex.com/)
-- [💼 LinkedIn](https://www.linkedin.com/in/-alex-guo-)
-- [✉️ Email](mailto:alg17@sfu.ca)
-
----
-
 ## 🛠️ Skills 
 
 ### Programming Languages
@@ -66,22 +59,36 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 ## 🚀 Projects 
 
 ### [🕸️ Server Nexus (WIP)](https://server-nexus.vercel.app/#/) 
-- A full-stack website that lets users fetch Minecraft server information and leave ratings/reviews. 
+- A full-stack website that lets users fetch Minecraft server information and leave ratings/reviews.
+- Svelte, TypeScript, Tailwind CSS, Daisy UI, Supabase, MCStatus API
 
 ### [📊 SubTrak (WIP)](https://main.d3vzykb0ipd68k.amplifyapp.com/)
 - A full-stack website that lets users track their subscriptions, spending, and under/over-utilized services.
+- Next.js, TypeScript, Tailwind CSS, ShadCN UI, Google Gemini API, AWS RDS (MySQL) + S3 + Cognito + Amplify
 
 ### [🍴 Recipedia](https://rcpdia.vercel.app/)
 - A website for finding recipes and scanning images for nutritional information.
+- React, JavaScript, Tailwind CSS, Daisy UI, TheMealDB API, APINinjas
 
 ### 🧠 CerebralVision (WIP) 
 - An AI pipeline that detects the presence of brain tumors in MRI scans.
+- PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 
 ### [📄 Resume/Job Recommender](https://github.com/reh13597/CMPT310-Resume-Parser) 
 - An AI pipeline that ranks the top N job postings to a resume.
+- Python, Scikit-learn, Pandas, SpaCy, NumPy, Matplotlib, Seaborn
 
 ### [🔒 GridLock](https://github.com/danieldawdaSFU/CMPT-371-Project)
 - A Pacman-esque 2D multiplayer game with shared objects and object locking.
+- Python, PyGame, TCP Sockets
 
 ### [👻 Mountain Madness Hackathon](https://devpost.com/software/descent-into-madness)
 - A 3D single-player horror game built during the 2025 Mountain Madness Hackathon.
+- Roblox Studio, Lua
+
+---
+
+## 🔗 Links 
+- [🗂️ Personal Portfolio](https://guoalex.com/)
+- [💼 LinkedIn](https://www.linkedin.com/in/-alex-guo-)
+- [✉️ Email](mailto:alg17@sfu.ca)
