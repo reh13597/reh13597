@@ -64,7 +64,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ### [📊 SubTrak (WIP)](https://github.com/reh13597/subtrak)
 - A full-stack website that lets users track their subscriptions, spending, and under/over-utilized services.
-- Next.js, TypeScript, Tailwind CSS, ShadCN UI, Google Gemini API, AWS RDS (MySQL) + S3 + Cognito + Amplify
+- Next.js, TypeScript, Tailwind CSS, ShadCN UI, Google Gemini API, AWS RDS (MySQL) + S3 + Cognito + Lambda + Amplify
 
 ### [🍴 Recipedia](https://github.com/reh13597/recipedia)
 - A website for finding recipes and scanning images for nutritional information.
