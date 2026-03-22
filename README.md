@@ -1,10 +1,15 @@
 # Hey there 👋, I'm Alex! 
 
-## CS @ SFU 🍁
-
 I'm a 3rd year Computing Science student at SFU 🍁. I'm very interested in full-stack development 💻, AI/ML 🤖, DevOps 🔁, and QA 🔎. I'm also in the SFU-ZJU Dual Degree Program, so after I get my bachelor's in Computing Science, I'll embark to Zhejiang University in China to get a master's in Finance!
 
 Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️), getting a workout in at the gym 🏋️, watching anime 📺, playing video games 🎮, or just in Vancouver enjoying the tastiest food there is to offer 🍕.
+
+---
+
+## 🔗 Links 
+- [🗂️ Personal Portfolio](https://guoalex.com/)
+- [💼 LinkedIn](https://www.linkedin.com/in/-alex-guo-)
+- [✉️ Email](mailto:alg17@sfu.ca)
 
 ---
 
@@ -60,57 +65,13 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ## 🚀 Projects 
 
-### [🕸️ Server Nexus (WIP)](https://github.com/reh13597/ServerNexus) 
-A responsive full-stack website that lets users fetch Minecraft server information and leave ratings/reviews.
-
-Tech Stack:
-- Svelte, TypeScript, Tailwind CSS, Daisy UI, Supabase, MCStatus API, EmailJS
-
-### [📊 SubTrak (WIP)](https://github.com/reh13597/subtrak)
-A responsive full-stack website that lets users track their subscriptions, spending, and under/over-utilized services.
-
-Tech Stack:
-- Next.js + API Routes, TypeScript, Tailwind CSS, ShadCN UI, Google Gemini API, AWS RDS (MySQL) + S3 + Cognito + Lambda + Amplify
-
-### [🍴 Recipedia](https://github.com/reh13597/recipedia)
-A responsive website for finding recipes and scanning images for nutritional information.
-
-Tech Stack:
-- React, JavaScript, Tailwind CSS, Daisy UI, GitHub Actions, TheMealDB API, APINinjas, EmailJS
-
-### [🟢 Personal Portfolio](https://github.com/reh13597/reh13597.github.io)
-A responsive website to display my projects and skills, as well as a way to get to know me better.
-
-Tech Stack:
-- React, JavaScript, Tailwind CSS, Daisy UI, Motion, Spotify Web Playback SDK
-
-### 🧠 CerebralVision (WIP) 
-An AI pipeline that detects the presence of brain tumors in MRI scans.
-
-Tech Stack:
-- PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-
-### [📄 Resume/Job Recommender](https://github.com/reh13597/CMPT310-Resume-Parser) 
-An AI pipeline that ranks the top N job postings to a resume.
-
-Tech Stack:
-- Python, Scikit-learn, Pandas, SpaCy, NumPy, Matplotlib, Seaborn
-
-### [🔒 GridLock](https://github.com/danieldawdaSFU/CMPT-371-Project)
-A Pacman-esque 2D multiplayer game with shared objects and object locking.
-
-Tech Stack:
-- Python, PyGame, TCP Sockets
-
-### [👻 Mountain Madness Hackathon](https://devpost.com/software/descent-into-madness)
-A 3D single-player horror game built during the 2025 Mountain Madness Hackathon.
-
-Tech Stack:
-- Roblox Studio, Lua
-
----
-
-## 🔗 Links 
-- [🗂️ Personal Portfolio](https://guoalex.com/)
-- [💼 LinkedIn](https://www.linkedin.com/in/-alex-guo-)
-- [✉️ Email](mailto:alg17@sfu.ca)
+| **Link** | **Description** | **Tech Stack** | 
+| -------- | -------- | -------- |
+| [🕸️ Server Nexus (WIP)](https://github.com/reh13597/ServerNexus) | A responsive full-stack website that lets users fetch Minecraft server information and leave ratings/reviews. | Svelte, TypeScript, Tailwind CSS, Daisy UI, Supabase, MCStatus API, EmailJS |
+| [📊 SubTrak (WIP)](https://github.com/reh13597/subtrak) | A responsive full-stack website that lets users track their subscriptions, spending, and under/over-utilized services. | Next.js + API Routes, TypeScript, Tailwind CSS, ShadCN UI, Google Gemini API, AWS RDS (MySQL) + S3 + Cognito + Lambda + Amplify |
+| [🍴 Recipedia](https://github.com/reh13597/recipedia) | A responsive website for finding recipes and scanning images for nutritional information. | React, JavaScript, Tailwind CSS, Daisy UI, GitHub Actions, TheMealDB API, APINinjas, EmailJS |
+| [🟢 Personal Portfolio](https://github.com/reh13597/reh13597.github.io) | A responsive website to display my projects and skills, as well as a way to get to know me better. | React, JavaScript, Tailwind CSS, Daisy UI, Motion, Spotify Web Playback SDK |
+| 🧠 CerebralVision (WIP) | An AI pipeline that detects the presence of brain tumors in MRI scans. | PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
+| [📄 Resume/Job Recommender](https://github.com/reh13597/CMPT310-Resume-Parser) | An AI pipeline that ranks the top N job postings to a resume. | Python, Scikit-learn, Pandas, SpaCy, NumPy, Matplotlib, Seaborn |
+| [🔒 GridLock](https://github.com/danieldawdaSFU/CMPT-371-Project) | A Pacman-esque 2D multiplayer game with shared objects and object locking. | Python, PyGame, TCP Sockets |
+| [👻 Mountain Madness Hackathon](https://devpost.com/software/descent-into-madness) | A 3D single-player horror game built during the 2025 Mountain Madness Hackathon. | Roblox Studio, Lua |
