@@ -77,7 +77,7 @@ Tech Stack:
 - React, JavaScript, Tailwind CSS, Daisy UI, GitHub Actions, TheMealDB API, APINinjas, EmailJS
 
 ### [🟢 Personal Portfolio](https://github.com/reh13597/reh13597.github.io)
-A responsive website to display my projects and skills, as well as some small trinkets to get to know me better, like the song I'm currently listening to on Spotify, or pictures of me and my friends.
+A responsive website to display my projects and skills, as well as a way to get to know me better.
 
 Tech Stack:
 - React, JavaScript, Tailwind CSS, Daisy UI, Motion, Spotify Web Playback SDK
