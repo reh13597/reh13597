@@ -59,35 +59,43 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 ## 🚀 Projects 
 
 ### [🕸️ Server Nexus (WIP)](https://github.com/reh13597/ServerNexus) 
-- A responsive full-stack website that lets users fetch Minecraft server information and leave ratings/reviews.
+A responsive full-stack website that lets users fetch Minecraft server information and leave ratings/reviews.
+Tech Stack:
 - Svelte, TypeScript, Tailwind CSS, Daisy UI, Supabase, MCStatus API, EmailJS
 
 ### [📊 SubTrak (WIP)](https://github.com/reh13597/subtrak)
-- A responsive full-stack website that lets users track their subscriptions, spending, and under/over-utilized services.
+A responsive full-stack website that lets users track their subscriptions, spending, and under/over-utilized services.
+Tech Stack:
 - Next.js + API Routes, TypeScript, Tailwind CSS, ShadCN UI, Google Gemini API, AWS RDS (MySQL) + S3 + Cognito + Lambda + Amplify
 
 ### [🍴 Recipedia](https://github.com/reh13597/recipedia)
-- A responsive website for finding recipes and scanning images for nutritional information.
+A responsive website for finding recipes and scanning images for nutritional information.
+Tech Stack:
 - React, JavaScript, Tailwind CSS, Daisy UI, GitHub Actions, TheMealDB API, APINinjas, EmailJS
 
 ### [🟢 Personal Portfolio](https://github.com/reh13597/reh13597.github.io)
-- A responsive website to display my projects and skills, as well as some small trinkets to get to know me better, like the song I'm currently listening to on Spotify, or pictures of me and my friends.
+A responsive website to display my projects and skills, as well as some small trinkets to get to know me better, like the song I'm currently listening to on Spotify, or pictures of me and my friends.
+Tech Stack:
 - React, JavaScript, Tailwind CSS, Daisy UI, Motion, Spotify Web Playback SDK
 
 ### 🧠 CerebralVision (WIP) 
-- An AI pipeline that detects the presence of brain tumors in MRI scans.
+An AI pipeline that detects the presence of brain tumors in MRI scans.
+Tech Stack:
 - PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 
 ### [📄 Resume/Job Recommender](https://github.com/reh13597/CMPT310-Resume-Parser) 
-- An AI pipeline that ranks the top N job postings to a resume.
+An AI pipeline that ranks the top N job postings to a resume.
+Tech Stack:
 - Python, Scikit-learn, Pandas, SpaCy, NumPy, Matplotlib, Seaborn
 
 ### [🔒 GridLock](https://github.com/danieldawdaSFU/CMPT-371-Project)
-- A Pacman-esque 2D multiplayer game with shared objects and object locking.
+A Pacman-esque 2D multiplayer game with shared objects and object locking.
+Tech Stack:
 - Python, PyGame, TCP Sockets
 
 ### [👻 Mountain Madness Hackathon](https://devpost.com/software/descent-into-madness)
-- A 3D single-player horror game built during the 2025 Mountain Madness Hackathon.
+A 3D single-player horror game built during the 2025 Mountain Madness Hackathon.
+Tech Stack:
 - Roblox Studio, Lua
 
 ---
