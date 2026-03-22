@@ -4,6 +4,8 @@ I'm a 3rd year Computing Science student at SFU 🍁. I'm very interested in ful
 
 Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️), getting a workout in at the gym 🏋️, watching anime 📺, playing video games 🎮, or just in Vancouver enjoying the tastiest food there is to offer 🍕.
 
+--
+
 ## 🛠️ Skills 
 
 ### Programming Languages
@@ -52,6 +54,8 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+--
+
 ## 🚀 Projects 
 
 ### [🕸️ Server Nexus (WIP)](https://github.com/reh13597/ServerNexus) 
@@ -85,6 +89,8 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 ### [👻 Mountain Madness Hackathon](https://devpost.com/software/descent-into-madness)
 - A 3D single-player horror game built during the 2025 Mountain Madness Hackathon.
 - Roblox Studio, Lua
+
+--
 
 ## 🔗 Links 
 - [🗂️ Personal Portfolio](https://guoalex.com/)
