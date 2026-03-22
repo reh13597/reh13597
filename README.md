@@ -60,7 +60,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ### [🕸️ Server Nexus (WIP)](https://github.com/reh13597/ServerNexus) 
 - A responsive full-stack website that lets users fetch Minecraft server information and leave ratings/reviews.
-- Svelte, TypeScript, Tailwind CSS, Daisy UI, Supabase, MCStatus API
+- Svelte, TypeScript, Tailwind CSS, Daisy UI, Supabase, MCStatus API, EmailJS
 
 ### [📊 SubTrak (WIP)](https://github.com/reh13597/subtrak)
 - A responsive full-stack website that lets users track their subscriptions, spending, and under/over-utilized services.
@@ -68,11 +68,11 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ### [🍴 Recipedia](https://github.com/reh13597/recipedia)
 - A responsive website for finding recipes and scanning images for nutritional information.
-- React, JavaScript, Tailwind CSS, Daisy UI, TheMealDB API, APINinjas
+- React, JavaScript, Tailwind CSS, Daisy UI, TheMealDB API, APINinjas, EmailJS
 
 ### [🟢 Personal Portfolio](https://github.com/reh13597/reh13597.github.io)
 - A responsive website to display my projects and skills, as well as some small trinkets to get to know me better, like the song I'm currently listening to on Spotify, or pictures of me and my friends.
-- React, JavaScript, Tailwind CSS, Daisy UI, Spotify Web Playback SDK
+- React, JavaScript, Tailwind CSS, Daisy UI, Motion, Spotify Web Playback SDK
 
 ### 🧠 CerebralVision (WIP) 
 - An AI pipeline that detects the presence of brain tumors in MRI scans.
