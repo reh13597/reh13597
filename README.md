@@ -61,7 +61,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 | **Link** | **Description** | **Tech Stack** | 
 | -------- | -------- | -------- |
 | [🕸️ Server Nexus (WIP)](https://github.com/reh13597/ServerNexus) | A responsive full-stack website that lets users fetch Minecraft server information and leave ratings/reviews. | Svelte, TypeScript, Tailwind CSS, Daisy UI, Supabase, MCStatus API, EmailJS |
-| [📊 SubTrak (WIP)](https://github.com/reh13597/subtrak) | A responsive full-stack website that lets users track their subscriptions, spending, and under/over-utilized services. | Next.js + API Routes, TypeScript, Tailwind CSS, ShadCN UI, Google Gemini API, AWS RDS (MySQL) + S3 + Cognito + Lambda + Amplify |
+| [📊 SubTrak (WIP)](https://github.com/reh13597/subtrak) | A responsive full-stack website that lets users track their subscriptions, spending, and under/over-utilized services. | Next.js + API Routes, TypeScript, Tailwind CSS, ShadCN UI, Google Gemini API, AWS RDS (MySQL) + S3 + Cognito + Amplify |
 | [🍴 Recipedia](https://github.com/reh13597/recipedia) | A responsive website for finding recipes and scanning images for nutritional information. | React, JavaScript, Tailwind CSS, Daisy UI, GitHub Actions, TheMealDB API, APINinjas, EmailJS |
 | [🟢 Personal Portfolio](https://github.com/reh13597/reh13597.github.io) | A responsive website to display my projects and skills, as well as a way to get to know me better. | React, JavaScript, Tailwind CSS, Daisy UI, Motion, Spotify Web Playback SDK |
 | 🧠 CerebralVision (WIP) | An AI pipeline that detects the presence of brain tumors in MRI scans. | PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
