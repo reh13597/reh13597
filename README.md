@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Alex! 
 
-I'm a 3rd year Computing Science student at SFU 🍁. I'm very interested in full-stack development 💻, AI/ML 🤖, DevOps 🔁, and QA 🔎. I'm also in the SFU-ZJU Dual Degree Program, so after I get my bachelor's in Computing Science, I'll embark to Zhejiang University in China to get a master's in Finance!
+I'm a 3rd year Computing Science student at SFU 🍁. I'm very interested in Full-Stack 💻, AI/ML 🤖, DevOps 🔁, and QA 🔎. I'm also in the SFU-ZJU Dual Degree Program, so after I get my bachelor's in Computing Science, I'll embark to Zhejiang University in China to get a master's in Finance!
 
 Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️), getting a workout in at the gym 🏋️, watching anime 📺, playing video games 🎮, or just in Vancouver enjoying the tastiest food there is to offer 🍕.
 
@@ -67,7 +67,7 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 | 🧠 CerebralVision | An AI pipeline that detects the presence of brain tumors in MRI scans. | PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
 | [📄 Resume/Job Recommender](https://github.com/reh13597/CMPT310-Resume-Parser) | An AI pipeline that ranks the top N job postings to a resume. | Python, Scikit-learn, Pandas, SpaCy, NumPy, Matplotlib, Seaborn |
 | [🔒 GridLock](https://github.com/danieldawdaSFU/CMPT-371-Project) | A Pacman-esque 2D multiplayer game with shared objects and object locking. | Python, PyGame, TCP Sockets |
-| [👻 Mountain Madness Hackathon](https://devpost.com/software/descent-into-madness) | A 3D single-player horror game built during the 2025 Mountain Madness Hackathon. | Roblox Studio, Lua |
+| [👻 Descent Into Madness](https://devpost.com/software/descent-into-madness) | A 3D single-player horror game built during the 2025 Mountain Madness Hackathon. | Roblox Studio, Lua |
 
 ---
 
