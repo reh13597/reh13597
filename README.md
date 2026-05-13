@@ -6,6 +6,21 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 
 ---
 
+## 🚀 Projects 
+
+| **Link** | **Description** | **Tech Stack** | 
+| -------- | -------- | -------- |
+| [🕸️ Server Nexus](https://github.com/reh13597/ServerNexus) | A responsive full-stack website that lets users fetch Minecraft server information and leave ratings/reviews. | Svelte, TypeScript, Tailwind CSS, Daisy UI, Supabase, MCStatus API, EmailJS |
+| [📊 SubTrak](https://github.com/reh13597/subtrak) | A responsive full-stack website that lets users track their subscriptions, spending, and under/over-utilized services. | Next.js + API Routes, TypeScript, Tailwind CSS, ShadCN UI, Google Gemini API, AWS RDS (MySQL) + S3 + Cognito + Amplify |
+| [🍴 Recipedia](https://github.com/reh13597/recipedia) | A responsive website for finding recipes and scanning images for nutritional information. | React, JavaScript, Tailwind CSS, Daisy UI, GitHub Actions, TheMealDB API, APINinjas, EmailJS |
+| [🟢 Personal Portfolio](https://github.com/reh13597/reh13597.github.io) | A responsive website to display my projects and skills, as well as a way to get to know me better. | React, JavaScript, Tailwind CSS, Daisy UI, Motion, Spotify Web Playback SDK |
+| 🧠 CerebralVision | An AI pipeline that detects the presence of brain tumors in MRI scans. | PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
+| [📄 Resume/Job Recommender](https://github.com/reh13597/CMPT310-Resume-Parser) | An AI pipeline that ranks the top N job postings to a resume. | Python, Scikit-learn, Pandas, SpaCy, NumPy, Matplotlib, Seaborn |
+| [🔒 GridLock](https://github.com/danieldawdaSFU/CMPT-371-Project) | A Pacman-esque 2D multiplayer game with shared objects and object locking. | Python, PyGame, TCP Sockets |
+| [👻 Descent Into Madness](https://devpost.com/software/descent-into-madness) | A 3D single-player horror game built during the 2025 Mountain Madness Hackathon. | Roblox Studio, Lua |
+
+---
+
 ## 🛠️ Skills 
 
 ### Languages
@@ -53,21 +68,6 @@ Outside of school, you can find me skiing on a mountain ⛷️ (or hiking ⛰️
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
----
-
-## 🚀 Projects 
-
-| **Link** | **Description** | **Tech Stack** | 
-| -------- | -------- | -------- |
-| [🕸️ Server Nexus](https://github.com/reh13597/ServerNexus) | A responsive full-stack website that lets users fetch Minecraft server information and leave ratings/reviews. | Svelte, TypeScript, Tailwind CSS, Daisy UI, Supabase, MCStatus API, EmailJS |
-| [📊 SubTrak](https://github.com/reh13597/subtrak) | A responsive full-stack website that lets users track their subscriptions, spending, and under/over-utilized services. | Next.js + API Routes, TypeScript, Tailwind CSS, ShadCN UI, Google Gemini API, AWS RDS (MySQL) + S3 + Cognito + Amplify |
-| [🍴 Recipedia](https://github.com/reh13597/recipedia) | A responsive website for finding recipes and scanning images for nutritional information. | React, JavaScript, Tailwind CSS, Daisy UI, GitHub Actions, TheMealDB API, APINinjas, EmailJS |
-| [🟢 Personal Portfolio](https://github.com/reh13597/reh13597.github.io) | A responsive website to display my projects and skills, as well as a way to get to know me better. | React, JavaScript, Tailwind CSS, Daisy UI, Motion, Spotify Web Playback SDK |
-| 🧠 CerebralVision | An AI pipeline that detects the presence of brain tumors in MRI scans. | PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
-| [📄 Resume/Job Recommender](https://github.com/reh13597/CMPT310-Resume-Parser) | An AI pipeline that ranks the top N job postings to a resume. | Python, Scikit-learn, Pandas, SpaCy, NumPy, Matplotlib, Seaborn |
-| [🔒 GridLock](https://github.com/danieldawdaSFU/CMPT-371-Project) | A Pacman-esque 2D multiplayer game with shared objects and object locking. | Python, PyGame, TCP Sockets |
-| [👻 Descent Into Madness](https://devpost.com/software/descent-into-madness) | A 3D single-player horror game built during the 2025 Mountain Madness Hackathon. | Roblox Studio, Lua |
 
 ---
 
