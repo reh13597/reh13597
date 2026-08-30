@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Alex! 
 
-I'm a 3rd year CS student at SFU 🍁 and a Developer Analyst Co-op student at Powerex ⚡. 
+I'm a 3rd year CS student at SFU 🍁, Developer Analyst Co-op student at Powerex ⚡, and Software Developer at SFU Robot Soccer Club ⚽. 
 
 I'm very interested in Full-Stack 💻, AI/ML 🤖, DevOps 🔁, and QA 🔎. 
 
@@ -12,10 +12,10 @@ Outside of school, you can find me rolling on the mats 🥋, skiing on a mountai
 
 ## 💼 Experience
 
-| **Organization** | **Role** | **Duration** |
+| **Organization** | **Role** | **Duration** | 
 | -------- | -------- | -------- |
-| Powerex | Developer Analyst Co-op Student | Sept. 2026 - Present | 
-| SFU Robot Soccer Club | Software Developer (Discord Bot & W3 subteam) | June 2026 - Present |
+| [⚡ Powerex](https://powerex.com/) | Developer Analyst Co-op Student | Sept. 2026 - Present | 
+| [⚽ SFU Robot Soccer Club](https://www.sfurobotsoccer.com/) | Software Developer (Discord Bot & W3 subteam) | June 2026 - Present |
 
 ---
 
