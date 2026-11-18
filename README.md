@@ -12,10 +12,10 @@ Outside of school, you can find me rolling on the mats 🥋, skiing on a mountai
 
 ## 💼 Experience
 
-| **Organization** | **Role** | **Duration** | 
+| **Organization** | **Role** | **Description** | **Duration** | 
 | -------- | -------- | -------- |
-| [⚡ Powerex](https://powerex.com/) | Developer Analyst Co-op Student | Sept. 2026 - Present | 
-| [⚽ SFU Robot Soccer](https://www.sfurobotsoccer.com/) | Software Developer (Discord Bot & W3 subteam) | June 2026 - Present |
+| [⚡ Powerex](https://powerex.com/) | Developer Analyst Co-op Student | Taking on the responsibilities of a full-stack developer, business analyst, and business intelligence developer. Working within the MBOSS teams (mid office, back office, and shared services). | Sept. 2026 - Present | 
+| [⚽ SFU Robot Soccer](https://www.sfurobotsoccer.com/) | Software Developer | Currently on the Agent team, focusing on robot behavior for referee plays. Was previously on the W3 & Discord Bot team, focusing on the club's website and creating Discord commands. | June 2026 - Present |
 
 ---
 
