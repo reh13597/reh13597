@@ -81,4 +81,4 @@ Outside of school, you can find me rolling on the mats 🥋, skiing on a mountai
 ## 📫 Contact
 - [🗂️ Personal Portfolio](https://guoalex.com/)
 - [💼 LinkedIn](https://www.linkedin.com/in/-alex-guo-)
-- [✉️ Email](mailto:alg17@sfu.ca)
+- [✉️ Email](mailto:alexguo175@gmail.com)
